@@ -22,3 +22,12 @@ Further documentation can be found at <https://hexdocs.pm/hello>.
 gleam run   # Run the project
 gleam test  # Run the tests
 ```
+
+```sh
+gleam build --target javascript 
+```
+
+
+```sh
+gleam export erlang-shipment
+```
