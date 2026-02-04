@@ -1,0 +1,3 @@
+### setup
+
+lua main.lua
