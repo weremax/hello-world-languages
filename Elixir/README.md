@@ -1,0 +1,5 @@
+### Setup
+
+```
+elixir hello.exs
+```
