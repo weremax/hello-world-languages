@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/opt/homebrew/bin/scala-cli",
+    "bsp",
+    "--json-options",
+    "/Users/weremax/projects/hello-world-languages/Scala/hello/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/Users/weremax/projects/hello-world-languages/Scala/hello/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/Users/weremax/projects/hello-world-languages/Scala/hello/.scala-build/ide-envs.json",
+    "/Users/weremax/projects/hello-world-languages/Scala/hello/hello.scala"
+  ],
+  "version": "1.12.5",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
