@@ -3,6 +3,10 @@
 sudo apt install gnat
 ```
 
+```
+sudo pacman -S gcc-ada
+```
+
 ### Compile
 ```
 gnatmake hello.adb
