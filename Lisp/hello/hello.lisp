@@ -1,3 +1,4 @@
+#!/opt/homebrew/bin/sbcl --script
 (require :uiop)
 
 (defun hello ()
