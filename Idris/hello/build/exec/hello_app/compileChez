@@ -1,0 +1,1 @@
+(parameterize ([optimize-level 3] [compile-file-message #f]) (compile-program "/home/weremax/Projects/Combination/hello-world-languages/Idris/hello/build/exec/hello_app/hello.ss"))
