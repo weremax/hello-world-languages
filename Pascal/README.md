@@ -1,0 +1,5 @@
+## Setup
+
+```
+fpc hello.pas
+```
